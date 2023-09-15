@@ -1,5 +1,5 @@
 /************************************************************************************
- * @file RCC_prog.c
+ * @file GPIO_interface.h
  * @author Abdo_Hijazi
  * @brief The GPIO_INTERFACE main source file, including functions' definition
  * @version 1.0
