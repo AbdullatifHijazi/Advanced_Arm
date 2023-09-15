@@ -1,0 +1,5 @@
+../Core/Src/BZR_prog.c:25:16:IsBzrConfigValid	6
+../Core/Src/BZR_prog.c:39:9:BZR_u8TurnOn	3
+../Core/Src/BZR_prog.c:56:9:BZR_u8TurnOff	3
+../Core/Src/BZR_prog.c:73:9:BZR_u8Toggle	3
+../Core/Src/BZR_prog.c:92:9:BZR_u8Beep	4

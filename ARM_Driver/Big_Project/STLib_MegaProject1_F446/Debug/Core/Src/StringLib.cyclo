@@ -1,0 +1,4 @@
+../Core/Src/StringLib.c:21:9:IsStringsEqual	4
+../Core/Src/StringLib.c:37:9:SentenceLength	3
+../Core/Src/StringLib.c:50:10:StringLength	2
+../Core/Src/StringLib.c:63:6:StringCopy	2

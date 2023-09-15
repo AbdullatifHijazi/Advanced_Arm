@@ -1,0 +1,5 @@
+../Core/Src/BZR_prog.c:25:16:IsBzrConfigValid	16	static
+../Core/Src/BZR_prog.c:39:9:BZR_u8TurnOn	16	static
+../Core/Src/BZR_prog.c:56:9:BZR_u8TurnOff	16	static
+../Core/Src/BZR_prog.c:73:9:BZR_u8Toggle	24	static
+../Core/Src/BZR_prog.c:92:9:BZR_u8Beep	24	static

@@ -1,0 +1,5 @@
+../Core/Src/ComMgr.c:31:20:SPITransmit	2
+../Core/Src/ComMgr.c:39:20:ComMgr_PrintPassword	3
+../Core/Src/ComMgr.c:64:6:ComMgr_Print	3
+../Core/Src/ComMgr.c:74:6:ComMgr_Println	3
+../Core/Src/ComMgr.c:92:6:ComMgr_Scan	10

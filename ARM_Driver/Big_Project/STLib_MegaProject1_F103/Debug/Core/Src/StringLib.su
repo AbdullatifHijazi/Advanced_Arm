@@ -1,0 +1,4 @@
+../Core/Src/StringLib.c:21:9:IsStringsEqual	16	static
+../Core/Src/StringLib.c:37:9:SentenceLength	24	static
+../Core/Src/StringLib.c:50:10:StringLength	24	static
+../Core/Src/StringLib.c:63:6:StringCopy	16	static

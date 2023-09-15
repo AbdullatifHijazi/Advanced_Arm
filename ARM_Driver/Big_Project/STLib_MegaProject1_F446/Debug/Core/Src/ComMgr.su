@@ -1,0 +1,5 @@
+../Core/Src/ComMgr.c:31:20:SPITransmit	24	static
+../Core/Src/ComMgr.c:39:20:ComMgr_PrintPassword	24	static
+../Core/Src/ComMgr.c:64:6:ComMgr_Print	16	static
+../Core/Src/ComMgr.c:74:6:ComMgr_Println	24	static
+../Core/Src/ComMgr.c:92:6:ComMgr_Scan	24	static

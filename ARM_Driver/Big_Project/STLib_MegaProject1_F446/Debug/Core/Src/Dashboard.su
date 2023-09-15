@@ -1,0 +1,12 @@
+../Core/Src/Dashboard.c:48:6:PrintMainMenu	8	static
+../Core/Src/Dashboard.c:59:9:CheckUserName	16	static
+../Core/Src/Dashboard.c:69:9:CheckPassword	16	static
+../Core/Src/Dashboard.c:79:6:DisplayTimeDate	72	static
+../Core/Src/Dashboard.c:109:6:SetTimeDate	32	static
+../Core/Src/Dashboard.c:140:6:SetAlarm	24	static
+../Core/Src/Dashboard.c:173:9:DoesAlarmCame	32	static
+../Core/Src/Dashboard.c:203:13:Time2String	16	static
+../Core/Src/Dashboard.c:218:13:Date2String	16	static
+../Core/Src/Dashboard.c:232:13:String2Time	16	static
+../Core/Src/Dashboard.c:246:13:String2Date	16	static
+../Core/Src/Dashboard.c:262:16:HoursTo24	24	static
